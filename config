@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "vu"]
+	url = git@github.com:vu-pham/bypass-adblocker.git
+	fetch = +refs/heads/*:refs/remotes/vu/*
